@@ -51,9 +51,11 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "uniqCompNum": 55,
+    "uniqCompNum": 57,
     "versionPublish": "4.11.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/Marina/Documents/website"
   },
   "pages": {
     "index.html": {
